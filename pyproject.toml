@@ -1,0 +1,5 @@
+[project]
+name = "automatiq"
+version = "0.1.0"
+description = "Simplify Web Reverse-engineering for AI Agents"
+requires-python = ">=3.10"
